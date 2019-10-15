@@ -1,3 +1,5 @@
+*WORK IN PROGRESS*
+
 crow.pd requires the following libraries/externals (use deken to install):
 
 * zexy
